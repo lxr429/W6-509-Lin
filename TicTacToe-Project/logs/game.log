@@ -1,0 +1,47 @@
+
+2023-11-03 09:05:33,954 - INFO - Game started.
+2023-11-03 09:05:33,955 - INFO - Player X's turn
+2023-11-03 09:05:43,483 - INFO - Player X placed X at (1, 1).
+2023-11-03 09:05:43,484 - INFO - Player O's turn
+2023-11-03 09:05:46,842 - INFO - Player O placed O at (1, 2).
+2023-11-03 09:05:46,842 - INFO - Player X's turn
+2023-11-03 09:05:49,295 - INFO - Player X placed X at (1, 3).
+2023-11-03 09:05:49,296 - INFO - Player O's turn
+2023-11-03 09:05:53,366 - INFO - Player O placed O at (2, 1).
+2023-11-03 09:05:53,367 - INFO - Player X's turn
+2023-11-03 09:05:57,463 - INFO - Player X placed X at (2, 2).
+2023-11-03 09:05:57,463 - INFO - Player O's turn
+2023-11-03 09:06:01,510 - INFO - Player O placed O at (2, 3).
+2023-11-03 09:06:01,510 - INFO - Player X's turn
+2023-11-03 09:06:09,670 - INFO - Player X placed X at (3, 2).
+2023-11-03 09:06:09,671 - INFO - Player O's turn
+2023-11-03 09:06:14,788 - INFO - Player O placed O at (3, 1).
+2023-11-03 09:06:14,789 - INFO - Player X's turn
+2023-11-03 09:06:17,769 - INFO - Player X placed X at (3, 3).
+2023-11-03 09:06:17,769 - INFO - Player X wins the game.
+2023-11-03 09:06:17,770 - INFO - Game ended.
+2023-11-07 23:15:51,811 - INFO - Game started.
+2023-11-07 23:15:51,811 - INFO - Player X's turn
+2023-11-07 23:18:36,617 - INFO - Game started.
+2023-11-07 23:18:36,617 - INFO - Player X's turn
+2023-11-07 23:18:50,667 - INFO - Player X placed X at (1, 2).
+2023-11-07 23:18:50,667 - INFO - Player O's turn
+2023-11-07 23:19:12,615 - INFO - Player O placed O at (1, 3).
+2023-11-07 23:19:12,616 - INFO - Player X's turn
+2023-11-07 23:19:17,085 - INFO - Player X placed X at (1, 1).
+2023-11-07 23:19:17,085 - INFO - Player O's turn
+2023-11-07 23:19:24,522 - INFO - Player O placed O at (2, 1).
+2023-11-07 23:19:24,522 - INFO - Player X's turn
+2023-11-07 23:19:29,421 - INFO - Player X placed X at (2, 2).
+2023-11-07 23:19:29,422 - INFO - Player O's turn
+2023-11-07 23:19:36,062 - INFO - Player O placed O at (3, 1).
+2023-11-07 23:19:36,063 - INFO - Player X's turn
+2023-11-07 23:19:39,951 - INFO - Player X placed X at (2, 3).
+2023-11-07 23:19:39,951 - INFO - Player O's turn
+2023-11-07 23:19:44,471 - INFO - Player O placed O at (3, 2).
+2023-11-07 23:19:44,472 - INFO - Player X's turn
+2023-11-07 23:19:48,537 - INFO - Player X placed X at (3, 3).
+2023-11-07 23:19:48,538 - INFO - Player X wins the game.
+2023-11-07 23:19:48,538 - INFO - Game ended.
+2023-11-07 23:28:59,645 - INFO - Game started.
+2023-11-07 23:28:59,646 - INFO - Player X's turn
